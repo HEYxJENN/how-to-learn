@@ -95,7 +95,7 @@
 }
 .two-columns__main-text{
   width: 80%;
-  min-width: 784;
+  min-width: 784px;
 }
 .two-columns__brief {
   font-size: 18px;
@@ -163,7 +163,7 @@
   bottom:0px;
   left: 0px;
   z-index: 0;
-  width: 837px;
+  width: 867px;
   height: 637px;
 }
 .feynman_title{
@@ -176,8 +176,7 @@
   z-index: 3;
   position: relative;
   text-align: center;
-  left: auto;
-  right: auto;
+  margin: auto;
 }
 .feynman_subtitle{
   margin-top: 70px;
@@ -218,16 +217,14 @@
   z-index: 3;
   position: relative;
   text-align: center;
-  left: auto;
-  right: auto;
+  margin: auto;
   color: white;
 }
 .kaufman-subtitle {
   margin-top: 20px;
   width: 60%;
   text-align: center;
-  left: auto;
-  right: auto;
+  margin: auto;
   font-size: 24px;
   font-weight: normal;
   line-height: 34px;
