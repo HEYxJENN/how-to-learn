@@ -339,14 +339,14 @@ background-image: url(../images/logo_place_footer.svg);
   margin: 20px 0px 16px 0px;
   text-decoration: none;
   list-style-type: none;
-  padding:0px
+  padding:0px;
 }
 
 .footer__column_content_social {
   margin: 20px 0px 16px 0px;
   text-decoration: none;
   list-style-type: none;
-  padding:0px
+  padding:0px;
 }
 
 .footer__column-heading {
