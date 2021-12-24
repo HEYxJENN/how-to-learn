@@ -209,7 +209,7 @@
 }
 
 .feynman__title {
-  margin: 0px;
+  margin: 0px auto;
   padding: 0px;
   padding-top: 100px;
   width: 648px;
@@ -220,7 +220,6 @@
   z-index: 3;
   position: relative;
   text-align: center;
-  margin: auto;
 }
 
 .feynman__subtitle {
@@ -359,7 +358,6 @@ background-image: url(../images/logo_place_footer.svg);
   padding: 0px;
   text-decoration: none;
   list-style-type: none;
-  padding:0px;
 }
 
 .footer__column_content_social {
@@ -367,7 +365,6 @@ background-image: url(../images/logo_place_footer.svg);
   padding: 0px;
   text-decoration: none;
   list-style-type: none;
-  padding:0px;
 }
 
 .footer__column-heading {
