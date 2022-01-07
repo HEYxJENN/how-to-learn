@@ -2,7 +2,7 @@
     margin: 0px auto;
     padding: 0px;
     padding-top: 100px;
-    width: 648px;
+    max-width: 648px;
     word-wrap: normal;
     font-size: 120px;
     font-weight: bold;

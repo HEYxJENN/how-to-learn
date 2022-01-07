@@ -2,5 +2,6 @@
     margin-right: 48px;
     width: 608px;
     height: 620px;
+    object-fit: contain;
+    object-position: left;
     }
-    
