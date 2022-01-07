@@ -2,6 +2,6 @@
     margin-right: 48px;
     width: 608px;
     height: 620px;
-    object-fit: contain;
+    object-fit: contain; /**изменил на вариант из комментария, хотя в брифе без этого свойства! хоть и некрасиво :) **/
     object-position: left;
     }
