@@ -2,6 +2,6 @@
     margin-right: 48px;
     width: 608px;
     height: 620px;
-    object-fit: contain; /**изменил на вариант из комментария, хотя в брифе некрасивый вариант без этого свойства :) **/
-    object-position: left;
-    }
+    object-fit: cover; /**сначала пробовал такие свойства, показалось что качество не меняется, буду знать, спасибо **/
+    object-position: top;
+}
